@@ -1,0 +1,9 @@
+{
+  "name": "D3-Demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "^4.3.0",
+    "d3-tip": "^0.7.1"
+  },
+  "private": true
+}
